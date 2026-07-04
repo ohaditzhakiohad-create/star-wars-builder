@@ -1,0 +1,12 @@
+{
+  "name": "star-wars-force-user-builder",
+  "version": "1.0.0",
+  "description": "Star Wars Force User Builder with leaderboard",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

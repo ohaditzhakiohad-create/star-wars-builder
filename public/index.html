@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <title>Build Your Force User</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <nav class="site-nav" aria-label="Quick navigation">
+    <button class="nav-btn" data-route="/" type="button">Home</button>
+    <button class="nav-btn" data-route="/builder" type="button">Builder</button>
+    <button class="nav-btn" data-route="/about" type="button">About</button>
+    <button class="nav-btn" data-route="/leaderboard" type="button">Leaderboard</button>
+  </nav>
+
+  <main class="page">
+    <section id="home-screen" class="screen hero">
+      <div class="overlay"></div>
+      <div class="hero-content">
+        <h1>Build Your Force User</h1>
+        <p>Create the strongest Star Wars character by locking in the best random options.</p>
+        <button id="start-btn" class="primary-btn" type="button">Start Building</button>
+        <button id="view-leaderboard-btn" class="secondary-btn" type="button">View Leaderboard</button>
+      </div>
+    </section>
+
+    <section id="builder-screen" class="screen hidden">
+      <header class="topbar">
+        <h2>Force User Builder</h2>
+        <p id="round-label">Round 1 of 5</p>
+      </header>
+
+      <div id="builder-grid" class="builder-grid"></div>
+
+      <div class="info-box">
+        <p><strong>How it works:</strong> Pick one category to lock in. The other unlocked categories will randomize again.</p>
+      </div>
+    </section>
+
+    <section id="results-screen" class="screen hidden">
+      <div class="results-card">
+        <h2>Your Force User</h2>
+        <div id="results-list" class="results-list"></div>
+
+        <div class="score-box">
+          <p><strong>Total Score:</strong> <span id="total-score"></span>/100</p>
+          <p><strong>Percentile:</strong> <span id="percentile-score"></span>%</p>
+        </div>
+
+        <div class="submit-box">
+          <label for="username">Enter your username for the leaderboard</label>
+          <input id="username" type="text" maxlength="20" placeholder="Your username" />
+          <button id="submit-score-btn" class="primary-btn" type="button">Submit Score</button>
+          <button id="play-again-btn" class="secondary-btn" type="button">Play Again</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="about-screen" class="screen hidden">
+      <div class="about-card">
+        <h2>About This Website</h2>
+        <p>This app is a small Star Wars-themed builder built with Node.js, Express, and JavaScript.</p>
+        <p>It works like this: you start the builder, choose one category at a time to lock in, and the rest of the categories randomize until you build a complete Force User.</p>
+        <p>After you finish, your score is shown and you can submit it to the leaderboard so you can compare your result with others.</p>
+        <p>Use the navigation bar to jump between Home, Builder, About, and Leaderboard whenever you want.</p>
+        <button id="about-home-btn" class="primary-btn" type="button">Back Home</button>
+      </div>
+    </section>
+
+    <section id="leaderboard-screen" class="screen hidden">
+      <div class="leaderboard-card">
+        <div class="leaderboard-header">
+          <h2>Leaderboard</h2>
+          <button id="back-home-btn" class="secondary-btn" type="button">Back Home</button>
+        </div>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Username</th>
+              <th>Total Score</th>
+              <th>Percentile</th>
+              <th>Date</th>
+            </tr>
+          </thead>
+          <tbody id="leaderboard-body"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <script src="/script.js"></script>
+</body>
+</html>

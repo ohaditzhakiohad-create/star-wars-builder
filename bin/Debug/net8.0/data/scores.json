@@ -1,0 +1,304 @@
+[
+  {
+    "id": "1782564135357",
+    "username": "aviv the f goat",
+    "selections": [
+      {
+        "category": "Force Strength",
+        "name": "Palpatine",
+        "points": 20,
+        "image": "/images/palpatine.png"
+      },
+      {
+        "category": "Master",
+        "name": "Yoda",
+        "points": 20,
+        "image": "/images/yoda.png"
+      },
+      {
+        "category": "Lightsaber Skills",
+        "name": "Anakin Skywalker",
+        "points": 20,
+        "image": "/images/anakin.jpeg"
+      },
+      {
+        "category": "Piloting Skills",
+        "name": "Anakin Skywalker",
+        "points": 20,
+        "image": "/images/anakin.jpeg"
+      },
+      {
+        "category": "Tactical Intelligence",
+        "name": "Palpatine",
+        "points": 20,
+        "image": "/images/palpatine.png"
+      }
+    ],
+    "totalScore": 100,
+    "percentile": 100,
+    "createdAt": "2026-06-27T12:42:15.357Z"
+  },
+  {
+    "id": "1782563886998",
+    "username": "Aviv the goat",
+    "selections": [
+      {
+        "category": "Force Strength",
+        "name": "Palpatine",
+        "points": 20,
+        "image": "/images/palpatine.png"
+      },
+      {
+        "category": "Master",
+        "name": "Yoda",
+        "points": 20,
+        "image": "/images/yoda.png"
+      },
+      {
+        "category": "Lightsaber Skills",
+        "name": "Luke Skywalker",
+        "points": 18,
+        "image": "/images/luke.jpeg"
+      },
+      {
+        "category": "Piloting Skills",
+        "name": "Anakin Skywalker",
+        "points": 20,
+        "image": "/images/anakin.jpeg"
+      },
+      {
+        "category": "Tactical Intelligence",
+        "name": "Palpatine",
+        "points": 20,
+        "image": "/images/palpatine.png"
+      }
+    ],
+    "totalScore": 98,
+    "percentile": 98,
+    "createdAt": "2026-06-27T12:38:06.998Z"
+  },
+  {
+    "id": "1782564098208",
+    "username": "aviv",
+    "selections": [
+      {
+        "category": "Force Strength",
+        "name": "Palpatine",
+        "points": 20,
+        "image": "/images/palpatine.png"
+      },
+      {
+        "category": "Master",
+        "name": "Yoda",
+        "points": 20,
+        "image": "/images/yoda.png"
+      },
+      {
+        "category": "Lightsaber Skills",
+        "name": "Luke Skywalker",
+        "points": 18,
+        "image": "/images/luke.jpeg"
+      },
+      {
+        "category": "Piloting Skills",
+        "name": "Anakin Skywalker",
+        "points": 20,
+        "image": "/images/anakin.jpeg"
+      },
+      {
+        "category": "Tactical Intelligence",
+        "name": "Palpatine",
+        "points": 20,
+        "image": "/images/palpatine.png"
+      }
+    ],
+    "totalScore": 98,
+    "percentile": 98,
+    "createdAt": "2026-06-27T12:41:38.208Z"
+  },
+  {
+    "id": "1782486071333",
+    "username": "ohad",
+    "selections": [
+      {
+        "category": "Force Strength",
+        "name": "Palpatine",
+        "points": 20
+      },
+      {
+        "category": "Master",
+        "name": "Dooku",
+        "points": 15
+      },
+      {
+        "category": "Lightsaber Skills",
+        "name": "Anakin Skywalker",
+        "points": 20
+      },
+      {
+        "category": "Piloting Skills",
+        "name": "Anakin Skywalker",
+        "points": 20
+      },
+      {
+        "category": "Tactical Intelligence",
+        "name": "Palpatine",
+        "points": 20
+      }
+    ],
+    "totalScore": 95,
+    "percentile": 95,
+    "createdAt": "2026-06-26T15:01:11.333Z"
+  },
+  {
+    "id": "1782564534163",
+    "username": "f",
+    "selections": [
+      {
+        "category": "Force Strength",
+        "name": "Palpatine",
+        "points": 20,
+        "image": "/images/palpatine.png"
+      },
+      {
+        "category": "Master",
+        "name": "Dooku",
+        "points": 15,
+        "image": "/images/dooku.webp"
+      },
+      {
+        "category": "Lightsaber Skills",
+        "name": "Luke Skywalker",
+        "points": 18,
+        "image": "/images/luke.jpeg"
+      },
+      {
+        "category": "Piloting Skills",
+        "name": "Anakin Skywalker",
+        "points": 20,
+        "image": "/images/anakin.jpeg"
+      },
+      {
+        "category": "Tactical Intelligence",
+        "name": "Palpatine",
+        "points": 20,
+        "image": "/images/palpatine.png"
+      }
+    ],
+    "totalScore": 93,
+    "percentile": 93,
+    "createdAt": "2026-06-27T12:48:54.163Z"
+  },
+  {
+    "id": "1782563632560",
+    "username": "h",
+    "selections": [
+      {
+        "category": "Force Strength",
+        "name": "Vader",
+        "points": 17,
+        "image": "/images/darthvader.jpeg"
+      },
+      {
+        "category": "Master",
+        "name": "Dooku",
+        "points": 15,
+        "image": "/images/dooku.webp"
+      },
+      {
+        "category": "Lightsaber Skills",
+        "name": "Anakin Skywalker",
+        "points": 20,
+        "image": "/images/anakin.jpeg"
+      },
+      {
+        "category": "Piloting Skills",
+        "name": "Anakin Skywalker",
+        "points": 20,
+        "image": "/images/anakin.jpeg"
+      },
+      {
+        "category": "Tactical Intelligence",
+        "name": "Obi-Wan Kenobi",
+        "points": 16,
+        "image": "/images/obiwan.jpeg"
+      }
+    ],
+    "totalScore": 88,
+    "percentile": 88,
+    "createdAt": "2026-06-27T12:33:52.560Z"
+  },
+  {
+    "id": "1782485845617",
+    "username": "hf",
+    "selections": [
+      {
+        "category": "Force Strength",
+        "name": "Vader",
+        "points": 17
+      },
+      {
+        "category": "Master",
+        "name": "Dooku",
+        "points": 15
+      },
+      {
+        "category": "Lightsaber Skills",
+        "name": "Anakin Skywalker",
+        "points": 20
+      },
+      {
+        "category": "Piloting Skills",
+        "name": "Anakin Skywalker",
+        "points": 20
+      },
+      {
+        "category": "Tactical Intelligence",
+        "name": "Rey Skywalker",
+        "points": 0
+      }
+    ],
+    "totalScore": 72,
+    "percentile": 72,
+    "createdAt": "2026-06-26T14:57:25.617Z"
+  },
+  {
+    "id": "1782569038262",
+    "username": "k",
+    "selections": [
+      {
+        "category": "Force Strength",
+        "name": "Palpatine",
+        "points": 20,
+        "image": "/images/palpatine.png"
+      },
+      {
+        "category": "Master",
+        "name": "Kit Fisto",
+        "points": 7,
+        "image": "/images/kitfisto.jpeg"
+      },
+      {
+        "category": "Lightsaber Skills",
+        "name": "3rd Sister Reva",
+        "points": 5,
+        "image": "/images/reva.jpeg"
+      },
+      {
+        "category": "Piloting Skills",
+        "name": "Lando",
+        "points": 13,
+        "image": "/images/lando.webp"
+      },
+      {
+        "category": "Tactical Intelligence",
+        "name": "Ahsoka",
+        "points": 8,
+        "image": "/images/ahsoka.jpeg"
+      }
+    ],
+    "totalScore": 53,
+    "percentile": 53,
+    "createdAt": "2026-06-27T14:03:58.262Z"
+  }
+]
